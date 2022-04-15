@@ -1,0 +1,28 @@
+h1{
+    color:rgb(0, 228, 38);
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color:rgb(0, 228, 38);
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+li{
+    color: black;
+    background-color: rgb(192, 249, 201);
+    font-size: 15px;
+    text-align: left
+}
+
+img{
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
